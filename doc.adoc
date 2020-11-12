@@ -1,0 +1,14 @@
+= Wie funktioniert GIT
+
+Git ist ein Versionskontrollsystem.
+
+[source,java]
+----
+import org.javax.Hallo
+
+public class Main {
+	public static void main(String[] args) {
+		println ("Hallo Welt")
+	}
+}
+----
