@@ -7,3 +7,6 @@ Git merkt sich den Stand einer Datei, die committed wurde! Zu jedem Commit schre
 
 == Branching
 Branches sind sogenannte Codezweige, wo die Änderungen innerhalb eines Branches zusammengefasst sind aber sich noch nicht auf den Hauptzweig auswirken.
+
+Wenn man der Meinung ist, dass ein Feature innerhalb eines Branches abgeschlossen ist,
+dann werden die Änderungen nach master (Standard Zweig) gemerged (zusammengeführt).
