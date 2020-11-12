@@ -4,3 +4,6 @@ Git ist ein Versionskontrollsystem.
 
 == Commits
 Git merkt sich den Stand einer Datei, die committed wurde! Zu jedem Commit schreibt man einen kurze Message, was genau getan wurde innerhalb des Commits.
+
+== Branching
+Branches sind sogenannte Codezweige, wo die Änderungen innerhalb eines Branches zusammengefasst sind aber sich noch nicht auf den Hauptzweig auswirken.
